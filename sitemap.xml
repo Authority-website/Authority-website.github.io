@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://authority-website.github.io/topic-context-mechanism-efficacy-side-effects/</loc>
+    
+    <lastmod>2025-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://authority-website.github.io/nitroglycerin-heart-disease-treatment-mechanism-efficacy-side-effects/</loc>
     
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://authority-website.github.io/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,35 +39,70 @@
   
   <url>
     <loc>https://authority-website.github.io/tags/Heart-Disease/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Nitroglycerin/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Angina-Pectoris/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Heart-Failure/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Drug-Therapy/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/Neurocalm-X-Therapy/</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/Mild-Cognitive-Impairment/</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/Cognitive-Health/</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/Neurotherapeutics/</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/Clinical-Guidelines/</loc>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -67,7 +111,14 @@
   
   <url>
     <loc>https://authority-website.github.io/categories/Medical-Health/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/categories/Health-Neuroscience/</loc>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
