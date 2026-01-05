@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://authority-website.github.io/race-intelligence-debate-context-mechanisms-interpretation/</loc>
+    
+    <lastmod>2026-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://authority-website.github.io/topic-context-mechanism-efficacy-side-effects/</loc>
     
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://authority-website.github.io/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,70 +48,77 @@
   
   <url>
     <loc>https://authority-website.github.io/tags/Heart-Disease/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Nitroglycerin/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Angina-Pectoris/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Heart-Failure/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://authority-website.github.io/tags/Drug-Therapy/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/tags/Neurocalm-X-Therapy/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/tags/race-and-intelligence/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/tags/Mild-Cognitive-Impairment/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/tags/genetics-and-education/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/tags/Cognitive-Health/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/tags/social-inequality/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/tags/Neurotherapeutics/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/tags/scientific-discourse/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/tags/Clinical-Guidelines/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/tags/statistical-interpretation/</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/tags/cognitive-health-neurotherapy-mild-cognitive-impairment-neurodegeneration-clinical-research-brain-health/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -111,14 +127,21 @@
   
   <url>
     <loc>https://authority-website.github.io/categories/Medical-Health/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://authority-website.github.io/categories/Health-Neuroscience/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <loc>https://authority-website.github.io/categories/Social-Science/</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://authority-website.github.io/categories/Neuroscience-and-Cognitive-Therapy/</loc>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
